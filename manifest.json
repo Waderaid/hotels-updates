@@ -1,1 +1,14 @@
-{"apps":[{"name":"Hotels MUSE iPhone","notes":"Crash fix (Start-tap force-close) + visuals matched to the real MB 1987 game.","package":"com.wade.hotels","sha256":"6e066a534af007923cbe36959711a98c2c01128bcc04695341cabee0c8a69c01","sizeBytes":152101,"url":"https://raw.githubusercontent.com/Waderaid/hotels-updates/main/Hotels-v1.2.apk","version":"1.2","versionCode":3}]}
+{
+  "apps": [
+    {
+      "package": "com.wade.hotels",
+      "name": "Hotels MUSE iPhone",
+      "version": "1.3",
+      "versionCode": 4,
+      "url": "https://raw.githubusercontent.com/Waderaid/hotels-updates/main/Hotels-v1.3.apk",
+      "sha256": "f94dccdd23a3a73576a74aa12e1fffa227399c520e6fa8e9b01fd2ef6c2c43e4",
+      "sizeBytes": 156197,
+      "notes": "Fixes the v1.2 Start-tap StackOverflowError (SnapshotDispatcher) + five hardening fixes + in-app crash-share dialog."
+    }
+  ]
+}
