@@ -1,14 +1,14 @@
 {
   "apps": [
     {
-      "package": "com.wade.hotels",
       "name": "Hotels MUSE iPhone",
-      "version": "1.3",
-      "versionCode": 4,
-      "url": "https://raw.githubusercontent.com/Waderaid/hotels-updates/main/Hotels-v1.3.apk",
-      "sha256": "f94dccdd23a3a73576a74aa12e1fffa227399c520e6fa8e9b01fd2ef6c2c43e4",
-      "sizeBytes": 156197,
-      "notes": "Fixes the v1.2 Start-tap StackOverflowError (SnapshotDispatcher) + five hardening fixes + in-app crash-share dialog."
+      "notes": "Visuals overhaul, photorealistic to the real MB 1987 game: all 8 hotels rebuilt (Royal beige towers, President blue glass + grey wedge roofs, Fujiyama blue-grey cylinders + black caps, Waikiki/Safari barrel-roof bungalows, Taj corner domes + arched door, Le Grand dormers + chimney + red arched door, Boomerang 5-segment crescent + window bands + vent), flat printed windows, flat facility tiles, Bank hipped roof + red door, Town Hall arched door, corrected district colours (Le Grand teal-green, President green, Fujiyama pink), board grain + vignette, dark-green felt table, specular plastic sheen + warm fill light, car headlights + chrome bumpers, softer offset shadows, and the 'Your turn' banner fix. v1.3 crash fix intact; gameplay and deed values unchanged.",
+      "package": "com.wade.hotels",
+      "sha256": "6f72d52b883167d543a598fee30b7e6e26560879fbd7851321fbe2f80040ccd9",
+      "sizeBytes": 164389,
+      "url": "https://raw.githubusercontent.com/Waderaid/hotels-updates/main/Hotels-v1.4.apk",
+      "version": "1.4",
+      "versionCode": 5
     }
   ]
 }
