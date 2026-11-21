@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "package": "com.wade.hotels",
+      "name": "Hotels MUSE iPhone",
+      "version": "1.0",
+      "versionCode": 1,
+      "url": "https://files.catbox.moe/iuh7l4.apk",
+      "sha256": "8d8cf173bb786d795e0cc5b3c0c78f9f85279e54d14f8fdfaf424209aa9ede0c",
+      "sizeBytes": 152101,
+      "notes": "First release."
+    }
+  ]
+}
