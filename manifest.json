@@ -1,14 +1,1 @@
-{
-    "apps": [
-        {
-            "name": "Hotels MUSE iPhone",
-            "notes": "Free camera (orbit / pinch zoom / two-finger pan / RESET VIEW, 8 s idle focus close-ups) + photo-textured buildings: 19 tex-*.png cut from the real US MB 1987 photos (511,628 bytes total), wall-only facade plates + photo window quads; President wedge roofs taller (0.30) with alternating yaw; Bank body grey stone -> sampled cream 0xFFDED1A8 with the whole front as one photo plate (door/window quads removed). Waikiki/Safari facades fall back to flat cream (fronts unreadable in shadow) with photo window bands; Town Hall has no texture (declared gap). Backs/sides flat except Fujiyama (wraps) and Boomerang (per-segment plates). Kept from v1.6: real printed board photo + serpentine 32-space track (BUY 12 / BUILD 13 / One Free Entrance 3 / Build One Phase Free 3), portrait board fit, dice tray on east felt, Bank 1.0 x 1.0. v1.3 crash fix and v1.4 'Your turn' fix intact; deeds.json and board.json byte-identical to v1.6.",
-            "package": "com.wade.hotels",
-            "sha256": "bf15978a739c7d1516f95c60ccca12b8dcf5a9079b89c29e24d12c9910c445ca",
-            "sizeBytes": 10480226,
-            "url": "https://raw.githubusercontent.com/Waderaid/hotels-updates/main/Hotels-v1.7.apk",
-            "version": "1.7",
-            "versionCode": 8
-        }
-    ]
-}
+{"apps":[{"name":"Hotels MUSE iPhone","notes":"Internet multiplayer via relay room codes (4-letter code, addressed delivery; relay not deployed yet, internet play starts working once it is); LAN WiFi play unchanged. Free camera (orbit / pinch zoom / two-finger pan / RESET VIEW, 8 s idle focus close-ups) + photo-textured buildings: 19 tex-*.png cut from the real US MB 1987 photos (511,628 bytes total), wall-only facade plates + photo window quads; President wedge roofs taller (0.30) with alternating yaw; Bank body grey stone -> sampled cream 0xFFDED1A8 with the whole front as one photo plate (door/window quads removed). Waikiki/Safari facades fall back to flat cream (fronts unreadable in shadow) with photo window bands; Town Hall has no texture (declared gap). Backs/sides flat except Fujiyama (wraps) and Boomerang (per-segment plates). Kept from v1.6: real printed board photo + serpentine 32-space track (BUY 12 / BUILD 13 / One Free Entrance 3 / Build One Phase Free 3), portrait board fit, dice tray on east felt, Bank 1.0 x 1.0. v1.3 crash fix and v1.4 'Your turn' fix intact; deeds.json and board.json byte-identical to v1.6.","package":"com.wade.hotels","sha256":"34308ac410b284f735beaf3ae3de422f9c604b4c19cadcfdc708a34f1c84e18c","sizeBytes":10492514,"url":"https://raw.githubusercontent.com/Waderaid/hotels-updates/main/Hotels-v1.8.apk","version":"1.8","versionCode":9}]}
