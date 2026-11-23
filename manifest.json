@@ -2,13 +2,13 @@
     "apps": [
         {
             "name": "Hotels MUSE iPhone",
-            "notes": "Real printed MB 1987 board photo as textures (board + 8 plot tiles, no procedural painting) + serpentine track rebuilt to follow the real board: 32 spaces (START + 31 road spaces, was 28 \u2014 rule change: BUY 12 / BUILD 13 / One Free Entrance 3 / Build One Phase Free 3; stars Boomerang #3, Fujiyama #8, Le Grand #9, President #14, Waikiki #17, Royal #21, Taj Mahal #26, Safari #27). Portrait board fit (upright, centred, 10.5 x 12.8 units); dice tray moved to east felt; Bank shrank to 1.0 x 1.0 on its narrow west-edge pad. Kept from v1.5: corrected buildings (Taj 3 onion domes, Fujiyama octagonal cylinders + disc caps, Le Grand short, Safari gable, Boomerang vertical strips, Royal thick caps, Waikiki short, President 6 window rows, Bank mansard), lower camera, display-cutout safe area + BUILD sheet rewrite (48dp gold checkboxes, plain-language permit legend). v1.3 crash fix and v1.4 'Your turn' fix intact; deeds and rules unchanged except the track.",
+            "notes": "Free camera (orbit / pinch zoom / two-finger pan / RESET VIEW, 8 s idle focus close-ups) + photo-textured buildings: 19 tex-*.png cut from the real US MB 1987 photos (511,628 bytes total), wall-only facade plates + photo window quads; President wedge roofs taller (0.30) with alternating yaw; Bank body grey stone -> sampled cream 0xFFDED1A8 with the whole front as one photo plate (door/window quads removed). Waikiki/Safari facades fall back to flat cream (fronts unreadable in shadow) with photo window bands; Town Hall has no texture (declared gap). Backs/sides flat except Fujiyama (wraps) and Boomerang (per-segment plates). Kept from v1.6: real printed board photo + serpentine 32-space track (BUY 12 / BUILD 13 / One Free Entrance 3 / Build One Phase Free 3), portrait board fit, dice tray on east felt, Bank 1.0 x 1.0. v1.3 crash fix and v1.4 'Your turn' fix intact; deeds.json and board.json byte-identical to v1.6.",
             "package": "com.wade.hotels",
-            "sha256": "f8078b6d5e463baf7f5808dfe0c0257cd163f8961878310216039fea0ca4a055",
-            "sizeBytes": 9962675,
-            "url": "https://raw.githubusercontent.com/Waderaid/hotels-updates/main/Hotels-v1.6.apk",
-            "version": "1.6",
-            "versionCode": 7
+            "sha256": "bf15978a739c7d1516f95c60ccca12b8dcf5a9079b89c29e24d12c9910c445ca",
+            "sizeBytes": 10480226,
+            "url": "https://raw.githubusercontent.com/Waderaid/hotels-updates/main/Hotels-v1.7.apk",
+            "version": "1.7",
+            "versionCode": 8
         }
     ]
 }
